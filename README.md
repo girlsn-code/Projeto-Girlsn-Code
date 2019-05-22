@@ -9,7 +9,7 @@ Unigranrio - Duque de Caxias
 Daniel de Oliveira, Dr.
 
 ### Bolsista:
-Thainá Monteiro Ferreira.
+Thainá Monteiro Ferreira (vigência 2019/2020).
 
 ### Volutários
 Quero ser um volutário!
