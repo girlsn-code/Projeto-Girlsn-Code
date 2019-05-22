@@ -5,13 +5,13 @@ Unigranrio - Duque de Caxias
 
 # Membros do Projeto
 
-## Professor Orientador:
+### Professor Orientador:
 Daniel de Oliveira, Dr.
 
-## Bolsista:
+### Bolsista:
 Thainá Monteiro Ferreira.
 
-## Volutários
+### Volutários
 Quero ser um volutário!
 
 ## Resumo
