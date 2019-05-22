@@ -1,13 +1,18 @@
 # Sobre o Projeto Girls'n Code
 
 PROJETO ENSINO DE PROGRAMAÇÃO PARA JOVENS E MULHERES
-- Unigranrio - Duque de Caxias
+Unigranrio - Duque de Caxias
 
-Professor Orientador:
-- Daniel de Oliveira, Dr.
+# Membros do Projeto
 
-Bolsista:
-- Thainá Monteiro Ferreira.
+## Professor Orientador:
+Daniel de Oliveira, Dr.
+
+## Bolsista:
+Thainá Monteiro Ferreira.
+
+## Volutários
+Quero ser um volutário!
 
 ## Resumo
 Atualmente existe uma preocupação mundial relacionado à discrepância entre o número de mulheres e homens envolvidos com as áreas relacionadas à Tecnologia da Informação e Engenharias. Preocupação inclusive externada pela UNESCO, o que vem gerando várias iniciativas, programas e projetos com foco no empoderamento feminino, bem como visando despertar o interesse das meninas e mulheres para as carreiras e disciplinas STEM, ou seja, vinculadas a ciência, matemática, computação e engenharias.  Sendo assim, este projeto visa contribuir com esta temática, inserindo na região de abrangência da Unigrnario, o gosto e o interesse feminino a ingressar na área de tecnologia, promovendo oficinas, criando objetos de aprendizagem e organizando eventos para ajudar a integrar a igualdade e proporcionar mais caminhos para o bem-estar do ser humano por meio da inovação tecnológica e criatividade.
