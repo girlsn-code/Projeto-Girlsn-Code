@@ -1,7 +1,7 @@
 # Sobre o Projeto Girls'n Code
 
-PROJETO ENSINO DE PROGRAMAÇÃO PARA JOVENS E MULHERES
-Unigranrio - Duque de Caxias
+PROJETO ENSINO DE PROGRAMAÇÃO PARA JOVENS E MULHERES.
+Unigranrio - Duque de Caxias.
 
 ## Membros do Projeto
 
