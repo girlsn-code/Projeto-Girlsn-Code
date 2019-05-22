@@ -3,7 +3,7 @@
 PROJETO ENSINO DE PROGRAMAÇÃO PARA JOVENS E MULHERES
 Unigranrio - Duque de Caxias
 
-# Membros do Projeto
+## Membros do Projeto
 
 ### Professor Orientador:
 Daniel de Oliveira, Dr.
