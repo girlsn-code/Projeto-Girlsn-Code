@@ -5,8 +5,9 @@ Unigranrio - Duque de Caxias
 
 ## Membros do Projeto
 
-### Professor Orientador:
+### Professore Orientadores:
 Daniel de Oliveira, Dr.
+Miguel Carvalho, MSc.
 
 ### Bolsista:
 Thainá Monteiro Ferreira (vigência 2019/2020).
