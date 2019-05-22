@@ -1,11 +1,11 @@
-# Sobre o Projeto Girls'n Code
+# Sobre o Projeto
 
-PROJETO ENSINO DE PROGRAMAÇÃO PARA JOVENS E MULHERES.
-Unigranrio - Duque de Caxias.
+Projeto Ensino de Programação para Jovens e Mulheres.
+Unigranrio - Duque de Caxias, RJ.
 
 ## Membros do Projeto
 
-### Professore Orientadores:
+### Professores Orientadores:
 Daniel de Oliveira, Dr.
 Miguel Carvalho, MSc.
 
