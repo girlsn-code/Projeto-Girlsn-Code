@@ -1,4 +1,4 @@
-![GitHub Logo](/imagens/Logo_350.png)
+![Girls'n Code Logo](/imagens/Logo_350.png)
 
 # Sobre o Projeto
 
