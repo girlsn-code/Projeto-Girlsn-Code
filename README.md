@@ -7,10 +7,10 @@ Atualmente existe uma preocupação mundial relacionado à discrepância entre o
 Despertar o interesse de meninas estudantes do ensino médio na região de abrangência da Unigranrio às áreas relacionadas à computação e robótica, para familiarizá-las melhor com temas vinculados a Tecnologia da Informação e Comunicação e para estimulá-las a seguir carreira nessa área, fomentando assim a economia criativa, inovação e a trabalhabilidade na região.
 
 ### Objetivos Específicos
-- Desenvolvimento de ações socioeducativas para inclusão, desmistificação e empoderamento da mulher em tecnologias da informação e comunicação.
-- Proporcionar às alunas o primeiro contato com a área de programação e criação de aplicativos e experimentos em robótica.
-- Possibilitar para meninas e meninos de escolas públicas alcance à geração de inovação e transformação do mundo por meio da computação;
-- Inserir as alunas dos cursos de TI da Unigranrio em projetos de pesquisa e extensão, bem como gerar exemplo para outras meninas;
+* Desenvolvimento de ações socioeducativas para inclusão, desmistificação e empoderamento da mulher em tecnologias da informação e comunicação.
+* Proporcionar às alunas o primeiro contato com a área de programação e criação de aplicativos e experimentos em robótica.
+* Possibilitar para meninas e meninos de escolas públicas alcance à geração de inovação e transformação do mundo por meio da computação;
+* Inserir as alunas dos cursos de TI da Unigranrio em projetos de pesquisa e extensão, bem como gerar exemplo para outras meninas;
 
 ## Resultados Esperados
 Os resultados esperados compreendem a experimentação do aluno com a aplicação de conhecimentos adquiridos nos cursos de Tecnologia da Informação, mais fortemente à aplicação dos conhecimentos de lógica e programação, o que cria uma gama de possibilidades para estudos de iniciação científica, artigos científicos voltados para práticas que incentivam a participação feminina nas áreas de tecnologia, engenharia e matemática. 
