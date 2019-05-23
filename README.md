@@ -1,3 +1,5 @@
+![GitHub Logo](/imagens/Logo_350.png)
+
 # Sobre o Projeto
 
 ## Resumo
@@ -13,7 +15,7 @@ Despertar o interesse de meninas estudantes do ensino médio na região de abran
 * Inserir as alunas dos cursos de TI da Unigranrio em projetos de pesquisa e extensão, bem como gerar exemplo para outras meninas;
 
 ## Resultados Esperados
-Os resultados esperados compreendem a experimentação do aluno com a aplicação de conhecimentos adquiridos nos cursos de Tecnologia da Informação, mais fortemente à aplicação dos conhecimentos de lógica e programação, o que cria uma gama de possibilidades para estudos de iniciação científica, artigos científicos voltados para práticas que incentivam a participação feminina nas áreas de tecnologia, engenharia e matemática. 
+Os resultados esperados compreendem a experimentação do aluno com a aplicação de conhecimentos adquiridos nos cursos de Tecnologia da Informação, mais fortemente à aplicação dos conhecimentos de lógica e programação, o que cria uma gama de possibilidades para estudos de iniciação científica, artigos científicos voltados para práticas que incentivam a participação feminina nas áreas de tecnologia, engenharia e matemática.
 
 Com isso, este Projeto de Extensão visa estimular fortemente a formação de mulheres e jovens do Ensino Médio para as carreiras de Ciências Exatas, sem desconsiderar o contexto social e econômico das escolas públicas da região de influência da Unigranrio.
 
