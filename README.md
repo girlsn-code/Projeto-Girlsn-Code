@@ -24,11 +24,15 @@ Além disso, outra meta que será perseguida será o de integrar o Programa Meni
 ## Membros do Projeto
 
 ### Professores Orientadores:
-Daniel de Oliveira, Dr.
-Miguel Carvalho, MSc.
+- Daniel de Oliveira, Dr.
+- Miguel Carvalho, MSc.
 
 ### Bolsista:
-Thainá Monteiro Ferreira (vigência 2019/2020).
+- Thainá Monteiro Ferreira (vigência 2019/2020).
 
 ### Volutários
+- Amanda dos Santos Benevides
+- Beatriz Silva de Lima
+- Maria Gabriele da Silva Martins
+
 Quero ser um volutário!
