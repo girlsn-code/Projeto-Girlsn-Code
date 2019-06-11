@@ -32,6 +32,8 @@ Além disso, outra meta que será perseguida será o de integrar o Programa Meni
 
 ### Volutários
 - Amanda dos Santos Benevides
+- Ariane da Silva Pereira
+- Beatriz Amieiro Pires Teixeira
 - Beatriz Silva de Lima
 - Maria Gabriele da Silva Martins
 
