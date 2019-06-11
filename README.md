@@ -1,4 +1,4 @@
-![Girls'n Code Logo](/imagens/Logo_350.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Girls'n Code Logo](/imagens/Logo_350.png){width="800" height="600" style="display: block; margin: 0 auto"}
 
 # Sobre o Projeto
 
