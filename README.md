@@ -31,8 +31,8 @@ Além disso, outra meta que será perseguida será o de integrar o Programa Meni
 - Thainá Monteiro Ferreira (vigência 2019/2020).
 
 ### Volutárias
-- Amanda dos Santos Benevides
-- Ariane da Silva Pereira
-- Beatriz Amieiro Pires Teixeira
-- Beatriz Silva de Lima
-- Maria Gabriele da Silva Martins
+- Amanda dos Santos Benevides.
+- Ariane da Silva Pereira.
+- Beatriz Amieiro Pires Teixeira.
+- Beatriz Silva de Lima.
+- Maria Gabriele da Silva Martins.
