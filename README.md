@@ -36,5 +36,3 @@ Além disso, outra meta que será perseguida será o de integrar o Programa Meni
 - Beatriz Amieiro Pires Teixeira
 - Beatriz Silva de Lima
 - Maria Gabriele da Silva Martins
-
-Quero me voluntariar!
