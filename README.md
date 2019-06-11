@@ -1,4 +1,4 @@
-![Girls'n Code Logo](/imagens/Logo_350.png)
+![Girls'n Code Logo](/imagens/Logo_350.png?style=centerme)
 
 # Sobre o Projeto
 
