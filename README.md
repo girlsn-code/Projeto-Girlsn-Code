@@ -30,7 +30,7 @@ Além disso, outra meta que será perseguida será o de integrar o Programa Meni
 ### Bolsista:
 - Thainá Monteiro Ferreira (vigência 2019/2020).
 
-### Volutárias
+### Voluntárias
 - Amanda dos Santos Benevides.
 - Ariane da Silva Pereira.
 - Beatriz Amieiro Pires Teixeira.
