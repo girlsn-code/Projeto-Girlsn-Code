@@ -35,5 +35,5 @@ Além disso, outra meta que será perseguida será o de integrar o Programa Meni
 - Ariane da Silva Pereira.
 - Beatriz Amieiro Pires Teixeira.
 - Beatriz Silva de Lima.
-- Juliana Lemos de Sá.
+- Juliana Barbosa de Almeida.
 - Maria Gabriele da Silva Martins.
